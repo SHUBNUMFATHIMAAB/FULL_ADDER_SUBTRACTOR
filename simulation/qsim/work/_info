@@ -2,84 +2,80 @@ m255
 K3
 13
 cModel Technology
-Z0 dE:\Quartus II\FULL_ADDSUB\simulation\qsim
-vFULL_addsub
-Z1 InzTg2n4IWSIo3IGQ4Bgh:2
-Z2 VUb8:Ffz]9XLm`aSA1Xem73
-Z3 dE:\Quartus II\FULL_ADDSUB\simulation\qsim
-Z4 w1706073759
-Z5 8FULL_addsub.vo
-Z6 FFULL_addsub.vo
+Z0 dC:\Users\acer\Desktop\New folder\ex4\simulation\qsim
+vex4
+Z1 I`25BFok>[dRA70]EFeP4S0
+Z2 VHQ5aoOi9FW?^gSoX]G>5D2
+Z3 dC:\Users\acer\Desktop\New folder\ex4\simulation\qsim
+Z4 w1779869807
+Z5 8ex4.vo
+Z6 Fex4.vo
 L0 31
 Z7 OV;L;10.1d;51
 r1
 31
 Z8 o-work work -O0
-Z9 n@f@u@l@l_addsub
 !i10b 1
-Z10 !s100 PW85=N4D=TE:Z6mMb59<@3
+Z9 !s100 W^8P^e3m[0gQgCIe:C3Y:2
 !s85 0
-Z11 !s108 1706073762.134000
-Z12 !s107 FULL_addsub.vo|
-Z13 !s90 -work|work|FULL_addsub.vo|
+Z10 !s108 1779869810.871000
+Z11 !s107 ex4.vo|
+Z12 !s90 -work|work|ex4.vo|
 !s101 -O0
-vFULL_addsub_vlg_check_tst
+vex4_vlg_check_tst
 !i10b 1
-!s100 Q?0?e_5G7:=4aYO6ML9d80
-I[J1Di78AC@jc=nl=SMlcz2
-V<6T=C7gRESGATfW0J79zI1
+!s100 >jNKc3C=GfM<a:__iGbQn1
+I<PD99T6BMDB]j=;ioTKK31
+VmZ>WT?D^=<Bl9`YJbbjn;3
 R3
-Z14 w1706073758
-Z15 8FULL_addsub.vt
-Z16 FFULL_addsub.vt
-L0 61
+Z13 w1779869806
+Z14 8ex4.vt
+Z15 Fex4.vt
+L0 63
 R7
 r1
 !s85 0
 31
-Z17 !s108 1706073762.259000
-Z18 !s107 FULL_addsub.vt|
-Z19 !s90 -work|work|FULL_addsub.vt|
+Z16 !s108 1779869810.996000
+Z17 !s107 ex4.vt|
+Z18 !s90 -work|work|ex4.vt|
 !s101 -O0
 R8
-n@f@u@l@l_addsub_vlg_check_tst
-vFULL_addsub_vlg_sample_tst
+vex4_vlg_sample_tst
 !i10b 1
-!s100 Cl<m4Umcf0flofcR@>bdh3
-I<SP1I=Hz7LY2Jjmm2gdno0
-VAadm3Mi8l7XBIeOilbe@a1
+!s100 <@3:kFa?;k_D?^h<IDEZA2
+I:@0XlFcg<bkX`f2eXLJfJ1
+V@1j8X6aOD0eRm5]UeaKjd2
 R3
+R13
 R14
 R15
-R16
 L0 29
 R7
 r1
 !s85 0
 31
+R16
 R17
 R18
-R19
 !s101 -O0
 R8
-n@f@u@l@l_addsub_vlg_sample_tst
-vFULL_addsub_vlg_vec_tst
+vex4_vlg_vec_tst
 !i10b 1
-!s100 ;Y=`Y:;H1V=eUmoncCnbE3
-I4Sga2n:^Wde]61d94bcdf2
-VNG2YdfRHPk@SB5acdg1UM3
+!s100 ZF6bNmJnJl5^fRLNQ@PiV2
+IRc63TlzIi8OPQ:`j7]:3N0
+VzaOi9OXTNR<fg]MdhXe_T3
 R3
+R13
 R14
 R15
-R16
-L0 237
+L0 239
 R7
 r1
 !s85 0
 31
+R16
 R17
 R18
-R19
 !s101 -O0
 R8
-n@f@u@l@l_addsub_vlg_vec_tst

@@ -1,0 +1,17 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/acer/Desktop/New folder/ex4/ex4.v
+source_file = 1, C:/Users/acer/Desktop/New folder/ex4/Waveform.vwf
+source_file = 1, C:/Users/acer/Desktop/New folder/ex4/db/ex4.cbx.xml
+design_name = ex4
+instance = comp, \Sum~output , Sum~output, ex4, 1
+instance = comp, \Carry~output , Carry~output, ex4, 1
+instance = comp, \Diff~output , Diff~output, ex4, 1
+instance = comp, \Borrow~output , Borrow~output, ex4, 1
+instance = comp, \Cin~input , Cin~input, ex4, 1
+instance = comp, \A~input , A~input, ex4, 1
+instance = comp, \B~input , B~input, ex4, 1
+instance = comp, \Sum~0 , Sum~0, ex4, 1
+instance = comp, \Carry~0 , Carry~0, ex4, 1
+instance = comp, \Bin~input , Bin~input, ex4, 1
+instance = comp, \Diff~0 , Diff~0, ex4, 1
+instance = comp, \Borrow~0 , Borrow~0, ex4, 1
