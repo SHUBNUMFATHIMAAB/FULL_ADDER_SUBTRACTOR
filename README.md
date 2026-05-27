@@ -53,7 +53,8 @@ assign Carry = (A & B) | (A & Cin) | (B & Cin);
 assign Diff = A ^ B ^ Bin;
 assign Borrow = (~A & Bin) | (~A & B) | (B & Bin);
 
-endmodule```
+endmodule
+```
 
 **RTL Schematic**
 ![alt text](image.png)
